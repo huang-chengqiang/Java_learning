@@ -7,5 +7,5 @@ package com.data.lx;
  * @Date 2020/10/13
  */
 public class Hello {
-    
+
 }
