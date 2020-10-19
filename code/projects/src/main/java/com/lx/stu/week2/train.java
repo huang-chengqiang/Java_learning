@@ -1,4 +1,4 @@
-package com.lx.stu;
+package com.lx.stu.week2;
 
 import java.util.Date;
 
